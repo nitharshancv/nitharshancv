@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitharshan CV</h1>
-<h3 align="center">I am a passionate and dedicated student at Vellore Institute of Technology (VIT), pursuing a Bachelor of Technology with a major in Computer Science Engineering.</h3>
+<h3 align="center">Motivated and detail-oriented Computer Science undergraduate with a strong foundation in data science, machine learning, and software development. Currently a Data Specialist at LabCorp, contributing to automation tools, report generation systems, and immunogenicity prediction using advanced LLMs..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitharshancv&label=Profile%20views&color=0e75b6&style=flat" alt="nitharshancv" /> </p>
 
